@@ -1,0 +1,21 @@
+{
+    "name": "fkomaralp/hepsipay",
+    "description": "HepsiPay php kütüphanesi",
+    "license": "MIT",
+    "version": "1.2",
+    "authors": [
+        {
+            "name": "F komaralp",
+            "email": "fkomaralp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fkomaralp\\HepsiPay\\" : "src/"
+        }
+    }
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3"
+    }
+}

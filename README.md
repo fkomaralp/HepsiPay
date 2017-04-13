@@ -3,7 +3,7 @@
 
 ## Giriş
 
-HepsiPay Laravel 5 Framework client entegrasyonu
+Laravel 5 için HepsiPay client entegrasyonu
 
 ## Kurulum
 
